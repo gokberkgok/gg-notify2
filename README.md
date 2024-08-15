@@ -2,6 +2,8 @@
 FiveM notification script for roleplay servers
 
 PREVIEW
+![image](https://github.com/user-attachments/assets/a4590142-35c1-4393-8a55-52000b4da8b0)
+
 
 https://github.com/user-attachments/assets/a078dda6-f0b7-446e-a6ea-7dec8342e42b
 
